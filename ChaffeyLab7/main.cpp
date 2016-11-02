@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-void Exercises14_1();
-void Exercises14_2();
+void Exercises14_1();//brett
+void Exercises14_2();//kevin
 void Exercises14_3();
 void Exercises14_6();
 void Exercises14_8();
